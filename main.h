@@ -1,4 +1,4 @@
-void hi(void);
-void wagwan(void);
-void habari(void);
-void hello(void);
+typedef struct node{
+	int data;
+	struct node *next;
+} node;
