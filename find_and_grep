@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -iname ".c" -exec grep -i -n "main" {} +
