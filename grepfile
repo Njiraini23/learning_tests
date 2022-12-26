@@ -1,0 +1,40 @@
+./1-malloc.c:26:* main - introduction to malloc and free
+./1-malloc.c:30:int main(void)
+./names.c:3:int main() {
+./fibonacci.c:15:int main()
+./0-linked_lists.c:8:int main() {
+./scanf.c:3:int main() {
+./stdin.c:7:int main()
+./sum_of_digits.c:8:int main()
+./exercise.c:15:int main(int ac, char **av)
+./sum.c:3:int main(int argc, char *argv[])
+./2-node.c:9:int main() {
+./stdout.c:7:int main()
+./structure.c:8:int main(void)
+./Wagwan.c:1:#include "main.h"
+./Wagwan.c:3:int main(void)
+./project_tests/scanf.c:3:int main()
+./project_tests/number_guessing_game.c:5:int main(void)
+./project_tests/fork.c:6:int main(void)
+./project_tests/env.c:3:int main(int argc, char **argv, char **env)
+./node.c:8:int main() {
+./recursion1.c:8:int main()
+./factorial_1.c:10:int main ()
+./1-node.c:9:int main() {
+./malloc_example.c:5: *main - introduction to malloc and free
+./malloc_example.c:9:int main(void)
+./0-main.c:1:#include "main.h"
+./test_3.c:7:int main()
+./prog.c:8:int main (int argc, char *agrv[])
+./main.c:3:#include "main.h"
+./main.c:6:int main(void)
+./bit_manipulation.c:3:int main(int argc, char* argv[])
+./free_malloc.c:27:* main - introduction to malloc and free
+./free_malloc.c:31:int main(void)
+./0-malloc.c:5:* main - introduction to malloc and free
+./0-malloc.c:9:int main(void)
+./0-structure.c:22:int main(void)
+./argv.c:3:int main(int argc, char **argv)
+./2-structure.c:6:int main(void)
+./malloc.c:4:int main(void)
+./layout.c:14:int main (void)
