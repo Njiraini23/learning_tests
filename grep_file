@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -size -10k -iname "*.c" -exec grep -i -n "main" {} + > file_name.txt
