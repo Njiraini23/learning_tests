@@ -6,6 +6,6 @@ int main(void)
 
 	for (i = 0; i <= 100; i++)
 	{
-		printf(" I love you\n ");
+		printf(" I love you times\n" );
 	}
 }
